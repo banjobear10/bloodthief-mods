@@ -14,7 +14,7 @@
         "authors": ["banjo"],
         "tags": ["TAS"],
         "description_rich": "TAS tool for bloofthief with saves states and slowmo.",
-        "download": "https://github.com/user/project/download/link.zip",
-        "repo": "https://github.com/user/project"
+        "download": "https://github.com/banjobear10/bloodthief-mods/tree/master/TAS",
+        "repo": "https://github.com/banjobear10/bloodthief-mods/tree/master/TAS"
     }
 }
