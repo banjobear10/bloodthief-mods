@@ -1,0 +1,14 @@
+{
+    "name": "Custom Gravity",
+    "name_pretty": "Custom Gravity",
+    "namespace": "banjo",
+    "version_number": "1.0.0",
+    "description": "Gives the player custom gravity",
+    "dependencies": [],
+    "incompatibilities": [],
+    "authors": ["banjo"],
+    "tags": ["cheats"],
+    "description_rich": "Gives the player custom gravity",
+    "download": "https://github.com/banjobear10/bloodthief-mods/releases/download/release/CustomGravity.zip",
+    "repo": "https://github.com/banjobear10/bloodthief-mods/tree/master/CustomGravity"
+}
