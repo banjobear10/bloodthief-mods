@@ -1,0 +1,20 @@
+{
+    "AuthorName-ModName" : {
+        "name": "BloodthiefTAS",
+        "name_pretty": "Bloodthief TAS",
+        "namespace": "banjo",
+        "version_number": "1.0.0",
+        "description": "TAS tool for bloofthief with saves states and slowmo.",
+        "dependencies": [
+            "Add IDs of other mods here, if your mod needs them to work"
+        ],
+        "incompatibilities": [
+            "Add IDs of other mods here, if your mod conflicts with them"
+        ],
+        "authors": ["banjo"],
+        "tags": ["TAS"],
+        "description_rich": "TAS tool for bloofthief with saves states and slowmo.",
+        "download": "https://github.com/user/project/download/link.zip",
+        "repo": "https://github.com/user/project"
+    }
+}
